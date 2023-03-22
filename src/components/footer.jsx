@@ -1,11 +1,9 @@
 import '../Styles/footerStyle.css'
 
-function Footer() {
-   return ( 
-      <div className="App">
-         
-      </div>
-    )
+function Footer () {
+  return (
+    <div className='App' />
+  )
 }
 
-export default Footer;
+export default Footer
