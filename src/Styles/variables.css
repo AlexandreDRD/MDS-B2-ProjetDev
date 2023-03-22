@@ -1,0 +1,6 @@
+:root {
+   --primary-color: darkslategray;
+   --secondary-color: rgb(86, 222, 222);
+   --header-height: 80px;
+   --footer-height:140;
+}
